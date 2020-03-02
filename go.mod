@@ -1,4 +1,4 @@
-module github.com/dirkarnez/ghostclick
+module github.com/dirkarnez/ghostmouse
 
 go 1.13
 
