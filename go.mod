@@ -1,5 +1,5 @@
 module github.com/dirkarnez/ghostmouse
 
-go 1.13
+go 1.15
 
-require github.com/go-vgo/robotgo v0.0.0-20200218163713-7eeb418c3a35
+require github.com/go-vgo/robotgo v0.91.0
